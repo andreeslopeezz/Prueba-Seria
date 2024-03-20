@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(243, 244, 227);
+}
+h1{
+font-family: +'Courier New', Courier, monospace;
+text-align: center;
+background-color: aqua;
+}
+p{
+    text-align: center;
+    color: pink;
+}
+.prueba{
+    text-align: end;
+    font-size: 40px;
+    color: burlywood;
+}
+div{
+    width: 30px  
+    display:inline-block;
+    text-align: center;
+    background-color: rgb(244, 244, 7);
+    margin: auto;
+    
+}
+.seriedad{
+    
+    background-color: brown;
+    text-align: end;
+}
